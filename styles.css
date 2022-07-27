@@ -54,6 +54,7 @@ a:hover {
 
 .pseudo_body {
   background-color: #f1f1f1;
+  margin-top: 10px; margin-bottom: 10px;
   text-align: center;
   display: inline-block;
   width: 100%;
@@ -64,4 +65,9 @@ a:hover {
   display: inline-block;
   width: calc(min(100%, 500px));
   background-color: white;
+  box-shadow: 2px;
+}
+
+.phone {
+  color: #0aadc9;
 }
