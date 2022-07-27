@@ -71,3 +71,8 @@ a:hover {
 .phone {
   color: #0aadc9;
 }
+
+.copyright_message {
+  color: gray;
+  font-size: 10px;
+}
